@@ -1,2 +1,6 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+# An Analysis of Kickstarter Campaigns
+Performing analysis on Kickstarter data to uncover trends.
+*More specifically we are supporting an aspiring theater playwright with an analysis of British plays that have had success in reaching their fundraising goals via Kickstarter. ---
+From the Kickstarter Data we were able to glean a number of relevant recommendations towards your kickstarter campaign.
+The first being that out of all categories of Kickstarter campaigns Theater was by and large the most common type, nearly doubling the amount of the second most common category of campaign. In Great Britain there was a 77% success rate for kickstarter campaigns that focused specifically on plays. The most successful month to launch a Theater campaign in Great Britain was May with 39 followed closely by June with 38 successful campaign. The average length of a successful campaign for a play in Great Britain was 30 days. After removing any substantial outliers (data points that are not part of the majority) the average amount requested for a successful play campaign in GB was £2,140.74. However, do not be alarmed because the data tells us that for plays requesting a higher amount of fundraising there were other factors aside from the amount requested that caused failure. ---
+Our Recommendation would be for you to start your fundraiser in May and run it for one month. 
